@@ -1,25 +1,32 @@
 # 👋 Hi, I'm Anshul!
 
-<img align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Developer Animation"/>
-
-
-
-I'm a **Backend Developer** passionate about designing scalable systems, optimizing databases, and integrating AI solutions. I thrive on solving complex problems, building RESTful APIs, and automating workflows. Always eager to learn and experiment with new technologies!
+<table>
+  <tr>
+    <td width="70%" style="vertical-align: top;">
+      <p>
+        I'm a <strong>Backend Developer</strong> passionate about designing scalable systems, optimizing databases, and integrating AI solutions. <br>
+        I thrive on solving complex problems, building RESTful APIs, and automating workflows. <br>
+        Always eager to learn and experiment with new technologies!
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Developer at Work"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Skills & Interests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -47,20 +54,10 @@ I'm a **Backend Developer** passionate about designing scalable systems, optimiz
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:anshulkr02@gmail.com">
-    <img src="https://img.shields.io/badge/-anshulkr02@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anshulkr02/)
+[![Gmail](https://img.shields.io/badge/-anshulkr02@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anshulkr02@gmail.com)
 
 ---
 
 > _“Always learning, always building.”_  
-> <b>Let’s connect or collaborate!</b> 🚀
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6db3f2,100:1e69de&height=120&section=footer)
+> <strong>Let’s connect or collaborate!</strong> 🚀
