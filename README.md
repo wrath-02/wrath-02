@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Anshul!
 
-<img align="right" src="https://media.giphy.com/media/xT1R9Ig6N8bP94v8lq/giphy.gif" width="250" alt="Hacker terminal typing"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding in action"/>
+
 
 
 I'm a **Backend Developer** passionate about designing scalable systems, optimizing databases, and integrating AI solutions. I thrive on solving complex problems, building RESTful APIs, and automating workflows. Always eager to learn and experiment with new technologies!
