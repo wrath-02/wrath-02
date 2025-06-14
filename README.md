@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anshul!
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding in action"/>
+<img align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Developer Animation"/>
 
 
 
