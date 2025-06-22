@@ -4,7 +4,7 @@
   <tr>
     <td width="70%" style="vertical-align: top;">
       <p>
-        I'm a <strong>Backend Developer</strong> passionate about designing scalable systems, optimizing databases, and integrating AI solutions. <br>
+        I'm a <strong>Full Stack Developer</strong> passionate about designing scalable systems, optimizing databases, and integrating AI solutions. <br>
         I thrive on solving complex problems, building RESTful APIs, and automating workflows. <br>
         Always eager to learn and experiment with new technologies!
       </p>
