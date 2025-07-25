@@ -1,62 +1,85 @@
-# 👋 Hi, I'm Anshul!
+<!-- Animated waving hand -->
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul!</a></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=36BCF7&width=400&lines=Full+Stack+Dev+%7C+AI+Enthusiast+%7C+Problem+Solver;Always+learning+%E2%9C%A8;Let's+build+something+cool+!" alt="Typing SVG" />
+</p>
 
-<table>
-  <tr>
-    <td width="70%" style="vertical-align: top;">
-      <p>
-        I'm a <strong>Full Stack Developer</strong> passionate about designing scalable systems, optimizing databases, and integrating AI solutions. <br>
-        I thrive on solving complex problems, building RESTful APIs, and automating workflows. <br>
-        Always eager to learn and experiment with new technologies!
-      </p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Developer at Work"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="170" alt="Developer at Work"/>
+</p>
 
 ---
 
-## 🛠️ Skills & Interests
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wrath-02&label=profile+views&color=6af7d2&style=flat-square" alt="profile views"/>
+</p>
 
 ---
 
-## 🚀 Projects
+<details open>
+<summary><b>🛠️ Languages & Tools</b> <em>(click to expand)</em> </summary>
+<br>
 
-- [**DocFusion**](https://github.com/wrath-02/DocFusion)  
-  📄 _Automated summarization of multiple documents with PDF & LaTeX support (Python)._
-
-- [**MultiPersonFaceRecognition**](https://github.com/wrath-02/MultiPersonFaceRecognition)  
-  🤖 _Real-time multi-face recognition using AI and dlib embeddings (Python)._
-
----
-
-## 💡 Competitive Programming
-
-- [**LeetCode Solutions**](https://github.com/wrath-02/Leetcode)  
-  🧠 _Java solutions for a wide range of LeetCode problems._
-
-- [**CodeChef Solutions**](https://github.com/wrath-02/CodeChef)  
-  ⚙️ _Solutions from CodeChef contests and practice sets._
-
-- **LeetCode Profile:** [leetcode.com/u/wrath_02/](https://leetcode.com/u/wrath_02/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+</details>
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anshulkr02/)
-[![Gmail](https://img.shields.io/badge/-anshulkr02@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anshulkr02@gmail.com)
+<details>
+  <summary><b>🚀 Featured Projects</b> <em>(click to expand)</em></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/wrath-02/DocFusion"><img src="https://user-images.githubusercontent.com/81717006/156876453-69705413-798d-4cdf-b1ec-2d38b5b8206d.gif" width="100%" alt="DocFusion banner"/></a>
+        <h4><a href="https://github.com/wrath-02/DocFusion">📄 DocFusion</a></h4>
+        <p>Automated summarization of multiple documents<br/><i>(PDF & LaTeX support, Python)</i></p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/wrath-02/MultiPersonFaceRecognition"><img src="https://media.giphy.com/media/B2f8Oi2a6qLgm/giphy.gif" width="100%" alt="Face Recognition"/></a>
+        <h4><a href="https://github.com/wrath-02/MultiPersonFaceRecognition">🤖 MultiPersonFaceRecognition</a></h4>
+        <p>Real-time multi-face recognition using AI and dlib<br/><i>(Python)</i></p>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
-> _“Always learning, always building.”_  
-> <strong>Let’s connect or collaborate!</strong> 🚀
+<details>
+  <summary><b>🏆 Competitive Programming</b></summary>
+  <ul>
+    <li>
+      <a href="https://github.com/wrath-02/Leetcode"><b>LeetCode Solutions</b></a> &mdash; 🧠 Java solutions for a wide range of LeetCode problems.
+    </li>
+    <li>
+      <a href="https://github.com/wrath-02/CodeChef"><b>CodeChef Solutions</b></a> &mdash; ⚙️ Problems from CodeChef contests and practice sets.
+    </li>
+    <li>
+      <a href="https://leetcode.com/u/wrath_02/">🌟 <b>LeetCode Profile</b></a>
+    </li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary>🌐 <b>Connect with Me</b></summary>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/anshulkr02/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:anshulkr02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+</details>
+
+---
+
+<p align="center"><em>“Always learning, always building.”</em></p>
+<p align="center"><b>Let’s connect or collaborate!</b> 🚀</p>
