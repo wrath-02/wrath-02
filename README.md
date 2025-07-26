@@ -12,7 +12,7 @@
 
 <!-- Developer at work GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="180" alt="Developer at Work"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNha2U4Nm5hNm9vOTNhOGVrcHR6NXA0MmZuMXAyNnUwaWU3ODk1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnhpl4IeYgU7MCBdV2/giphy.gif" width="180" alt="Developer at Work"/>
 </p>
 
 <!-- Profile views -->
