@@ -49,7 +49,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/wrath-02/MultiPersonFaceRecognition">
-        <img src="https://media.giphy.com/media/B2f8Oi2a6qLgm/giphy.gif" width="100%" alt="Face Recognition" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jNmJrNGQxbmtpdWk3dzAwcDNodmJlcGE2azg1ZmpjdnMwdGk3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abnQiguzMTaYlOM/giphy.gif" width="100%" alt="Face Recognition" />
       </a>
       <h4><a href="https://github.com/wrath-02/MultiPersonFaceRecognition">🤖 MultiPersonFaceRecognition</a></h4>
       <p>Real-time multi-face detection using AI and dlib.<br/><i>(Built with Python)</i></p>
