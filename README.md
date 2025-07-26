@@ -1,30 +1,23 @@
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="70%" style="font-size: 28px; padding: 10px;">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;" />
-      <strong>Hey there! I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul</a></strong>
-    </td>
-    <td align="right" width="30%" style="padding: 10px;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqdjlyMjJ4Y2QxcDFyZDJlNWp2Z3RhN3R6OGtkMXk2MTh1cWk5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="90px" alt="Developer at Work"/>
-    </td>
-  </tr>
-</table>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="margin-bottom:-5px" alt="Waving hand"/> 
+  Hey there! I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul</a>
+</h1>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqdjlyMjJ4Y2QxcDFyZDJlNWp2Z3RhN3R6OGtkMXk2MTh1cWk5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150" alt="Developer at Work"/>
-    </td>
-    <td align="center" style="padding-left: 10px;">
-      <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="Profile views"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <sub><em>Just a dev who loves pushing buttons & watching numbers go up 🚀</em></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Automation;Problem+Solver;Always+Learning;Let%E2%80%99s+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Developer at work GIF -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqdjlyMjJ4Y2QxcDFyZDJlNWp2Z3RhN3R6OGtkMXk2MTh1cWk5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="180" alt="Developer at Work"/>
+</p>
+
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
