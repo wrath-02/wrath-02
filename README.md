@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="margin-bottom:-5px" alt="Waving hand"/> 
-  Hey there! I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul</a>
+  Hey there! I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul Kumar</a>
 </h1>
 
 <p align="center">
@@ -44,7 +44,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/wrath-02/DocFusion">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xiNXQ3YnI1ODlhdjJ5cXBnYzgwOGZrMHhldHg4YjVoMnEwN2UwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yUrUb9fYz6x7a/giphy.gif" width="100%" alt="DocFusion" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xiNXQ3YnI1ODlhdjJ5cXBnYzgwOGZrMHhldHg4YjVoMnEwN2UwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yUrUb9fYz6x7a/giphy.gif" width="100%" alt="DocFusion" height="80%"/>
       </a>
       <h4><a href="https://github.com/wrath-02/DocFusion">📄 DocFusion</a></h4>
       <p>Summarize & merge documents like a pro. Supports PDF & LaTeX.<br/><i>(Built with Python)</i></p>
