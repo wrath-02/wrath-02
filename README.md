@@ -1,18 +1,23 @@
-<!-- Animated waving hand -->
-<h1 align="center">👋 Hey there! I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul</a></h1>
+<!-- Header with waving hand GIF -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="margin-bottom:-5px" alt="Waving hand"/> 
+  Hey there! I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul</a>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%BB;Always+learning+%F0%9F%8C%9F;Let’s+build+something+amazing+!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning;Let%E2%80%99s+Build+Something+Amazing!" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- Developer at work GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="180" alt="Developer at Work"/>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="180" alt="Developer at Work"/>
 </p>
 
+<!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
