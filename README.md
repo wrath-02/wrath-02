@@ -42,7 +42,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" height="100%>
       <a href="https://github.com/wrath-02/DocFusion">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VuNTU2NnpoenNmendrb2JseWtkb2N1bnBobHl4azh6N3VkbG1raSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bhJej8jo9NPtUpFCHS/giphy.gif" width="100%" alt="DocFusion" height="80%"/>
       </a>
