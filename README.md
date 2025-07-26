@@ -65,7 +65,7 @@
 
 - 🧩 [LeetCode Solutions](https://github.com/wrath-02/Leetcode): Java solutions for a wide variety of problems.
 - ⚙️ [CodeChef Solutions](https://github.com/wrath-02/CodeChef): Practice and contest submissions.
-- ☕︎ [GFS Solutions](https://github.com/wrath-02/geeksforgeeks): Solutions for famous problems.
+- ☕︎ [GFG Solutions](https://github.com/wrath-02/geeksforgeeks): Solutions for famous problems.
 
 ---
 
