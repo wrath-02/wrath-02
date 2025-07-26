@@ -9,11 +9,6 @@
 
 ---
 
-<!-- Developer at work GIF -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqdjlyMjJ4Y2QxcDFyZDJlNWp2Z3RhN3R6OGtkMXk2MTh1cWk5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="180" alt="Developer at Work"/>
-</p>
-
 <!-- Profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="Profile views"/>
@@ -25,7 +20,7 @@
 <table align="center" width="100%">
   <tr>
     <!-- Left side: Tech Stack -->
-    <td align="left" width="70%">
+    <td align="left" width="100%">
       <h2>🧰 Tech Stack & Tools</h2>
       <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
