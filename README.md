@@ -61,10 +61,11 @@
 
 ---
 
-## 🧠 Competitive Programming Solutions
+## 🧠 CP Solutions
 
-* **🧩 LeetCode Solutions:** Java solutions for a wide variety of problems.
-* **⚙️ CodeChef Solutions:** Practice and contest submissions.
+- 🧩 [LeetCode Solutions](https://github.com/wrath-02/Leetcode): Java solutions for a wide variety of problems.
+- ⚙️ [CodeChef Solutions](https://github.com/wrath-02/CodeChef): Practice and contest submissions.
+- ☕︎ [GFS Solutions](https://github.com/wrath-02/geeksforgeeks): Solutions for famous problems.
 
 ---
 
