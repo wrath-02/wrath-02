@@ -9,15 +9,13 @@
 
 ---
 
-<!-- Profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-<!-- Tech Stack + Developer GIF side by side -->
-<table align="center" width="100%">
+<table align="center" width="150%">
   <tr>
     <!-- Left side: Tech Stack -->
     <td align="left" width="100%">
@@ -46,7 +44,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/wrath-02/DocFusion">
-        <img src="https://user-images.githubusercontent.com/81717006/156876453-69705413-798d-4cdf-b1ec-2d38b5b8206d.gif" width="100%" alt="DocFusion" />
+        <img src="https://tenor.com/view/stephen-colbert-cant-find-it-files-gif-12504318" width="100%" alt="DocFusion" />
       </a>
       <h4><a href="https://github.com/wrath-02/DocFusion">📄 DocFusion</a></h4>
       <p>Summarize & merge documents like a pro. Supports PDF & LaTeX.<br/><i>(Built with Python)</i></p>
