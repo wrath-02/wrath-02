@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning;Let%E2%80%99s+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Automation;Problem+Solver;Always+Learning;Let%E2%80%99s+Build+Something+Amazing!" alt="Typing SVG" />
 </p>
 
 ---
@@ -59,12 +59,11 @@
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 Competitive Programming Solutions
 
 - 🧩 [LeetCode Solutions](https://github.com/wrath-02/Leetcode): Java solutions for a wide variety of problems.
 - ⚙️ [CodeChef Solutions](https://github.com/wrath-02/CodeChef): Practice and contest submissions.
-- 🌟 [My LeetCode Profile](https://leetcode.com/u/wrath_02/)
-
+  
 ---
 
 ## 🌐 Connect with Me
