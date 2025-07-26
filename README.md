@@ -10,15 +10,22 @@
 
 ---
 
-<!-- Developer at work GIF -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqdjlyMjJ4Y2QxcDFyZDJlNWp2Z3RhN3R6OGtkMXk2MTh1cWk5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="180" alt="Developer at Work"/>
-</p>
-
-<!-- Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="Profile views"/>
-</p>
+<!-- Side-by-side GIF and Profile Views with Caption -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqdjlyMjJ4Y2QxcDFyZDJlNWp2Z3RhN3R6OGtkMXk2MTh1cWk5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150" alt="Developer at Work"/>
+    </td>
+    <td align="center" style="padding-left: 10px;">
+      <img src="https://komarev.com/ghpvc/?username=wrath-02&label=Profile+Views&color=0bf3ff&style=flat-square" alt="Profile views"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <sub><em>Just a dev who loves pushing buttons & watching numbers go up 🚀</em></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,7 +70,7 @@
 
 - 🧩 [LeetCode Solutions](https://github.com/wrath-02/Leetcode): Java solutions for a wide variety of problems.
 - ⚙️ [CodeChef Solutions](https://github.com/wrath-02/CodeChef): Practice and contest submissions.
-  
+
 ---
 
 ## 🌐 Connect with Me
