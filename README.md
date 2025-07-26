@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
       </div>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="50%" height = 100px>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqdjlyMjJ4Y2QxcDFyZDJlNWp2Z3RhN3R6OGtkMXk2MTh1cWk5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="110px" alt="Developer at Work"/>
     </td>
   </tr>
