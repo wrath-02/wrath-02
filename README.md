@@ -1,7 +1,5 @@
-<!-- Header: Name on the left (larger), GIF on the right (smaller) -->
 <table align="center" width="100%">
   <tr>
-    <!-- Left side: Name and greeting -->
     <td align="left" width="70%" style="font-size: 28px; padding: 10px;">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;" />
       <strong>Hey there! I'm <a href="https://www.linkedin.com/in/anshulkr02/" target="_blank">Anshul</a></strong>
@@ -12,8 +10,6 @@
   </tr>
 </table>
 
-
-<!-- Side-by-side GIF and Profile Views with Caption -->
 <table align="center">
   <tr>
     <td align="center">
@@ -71,8 +67,8 @@
 
 ## 🧠 Competitive Programming Solutions
 
-- 🧩 [LeetCode Solutions](https://github.com/wrath-02/Leetcode): Java solutions for a wide variety of problems.
-- ⚙️ [CodeChef Solutions](https://github.com/wrath-02/CodeChef): Practice and contest submissions.
+* **🧩 LeetCode Solutions:** Java solutions for a wide variety of problems.
+* **⚙️ CodeChef Solutions:** Practice and contest submissions.
 
 ---
 
