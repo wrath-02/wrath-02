@@ -44,7 +44,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/wrath-02/DocFusion">
-        <img src="https://tenor.com/view/stephen-colbert-cant-find-it-files-gif-12504318" width="100%" alt="DocFusion" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xiNXQ3YnI1ODlhdjJ5cXBnYzgwOGZrMHhldHg4YjVoMnEwN2UwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yUrUb9fYz6x7a/giphy.gif" width="100%" alt="DocFusion" />
       </a>
       <h4><a href="https://github.com/wrath-02/DocFusion">📄 DocFusion</a></h4>
       <p>Summarize & merge documents like a pro. Supports PDF & LaTeX.<br/><i>(Built with Python)</i></p>
